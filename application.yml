@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: CONFIG-DEFAULT
-
 eureka:
   instance:
     #the ip address of server is to be preffered
